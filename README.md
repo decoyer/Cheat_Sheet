@@ -6,7 +6,7 @@ using *Java*
 ## Details
 #### 정렬 알고리즘
 - [x] 배열 정렬
-- [ ] Custom 정렬
+- [x] Custom 정렬
 
 #### 탐색 알고리즘
 - [ ] 그리디 탐색
