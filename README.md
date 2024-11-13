@@ -4,7 +4,7 @@ Algorithm *Templates* and *Shortcuts*
 using *Java*
 
 ## Details
-#### 자료 구조
+#### 자료구조
 - [ ] List
 - [ ] Set
 - [ ] Map
