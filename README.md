@@ -26,9 +26,8 @@ using *Java*
 - [x] Math 클래스
 - [x] 진법 변환
 - [x] 최대공약수와 최대공배수
-- [ ] 에라토스테네스의 체
-- [ ] 소인수 분해
-- [ ] 팩토리얼
+- [x] 에라토스테네스의 체
+- [x] 팩토리얼
 
 ## Getting Started
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
