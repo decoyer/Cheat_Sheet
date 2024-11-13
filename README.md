@@ -4,6 +4,14 @@ Algorithm *Templates* and *Shortcuts*
 using *Java*
 
 ## Details
+#### 자료 구조
+- [ ] List
+- [ ] Set
+- [ ] Map
+- [ ] Queue
+- [ ] Stack
+- [ ] Deque
+
 #### 정렬 알고리즘
 - [x] 배열 정렬
 - [x] Custom 정렬
@@ -14,6 +22,10 @@ using *Java*
 - [ ] DFS
 - [ ] BFS
 
+#### 문자열
+- [ ] 문자열 처리
+- [ ] 정규표현식
+
 #### 수학 알고리즘
 - [ ] Math 클래스
 - [ ] 진법 변환
@@ -21,13 +33,6 @@ using *Java*
 - [ ] 에라토스테네스의 체
 - [ ] 소인수 분해
 - [ ] 팩토리얼
-
-#### 자료 구조
-- [ ] Set
-- [ ] Map
-- [ ] Queue
-- [ ] Stack
-- [ ] Deque
 
 ## Getting Started
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
