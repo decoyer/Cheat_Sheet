@@ -5,12 +5,7 @@ using *Java*
 
 ## Details
 #### 자료구조
-- [ ] List
-- [ ] Set
-- [ ] Map
-- [ ] Queue
-- [ ] Stack
-- [ ] Deque
+- [ ] 기본
 
 #### 정렬 알고리즘
 - [x] 배열 정렬
