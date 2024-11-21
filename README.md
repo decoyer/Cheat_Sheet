@@ -27,8 +27,8 @@ using *Java*
 #### 탐색 알고리즘
 - [ ] 그리디 탐색
 - [ ] 이진 탐색
-- [ ] DFS
-- [ ] BFS
+- [x] DFS
+- [x] BFS
 
 ## Getting Started
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
